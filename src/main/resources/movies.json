@@ -1,0 +1,73 @@
+{
+  "movies": [
+    {
+      "title": "Kill Bill",
+      "director": {
+        "firstName": "Quentin",
+        "lastName": "Tarantino"
+      },
+      "genre": "Akcja",
+      "year": 2003,
+      "actors": [
+        {
+          "firstName": "Uma",
+          "lastName": "Thurman"
+        },
+        {
+          "firstName": "David",
+          "lastName": "Carradine"
+        },
+        {
+          "firstName": "Lucy",
+          "lastName": "Liu"
+        }
+      ]
+    },
+    {
+      "title": "Pulp Fiction",
+      "director": {
+        "firstName": "Quentin",
+        "lastName": "Tarantino"
+      },
+      "genre": "gangsterski",
+      "year": 1995,
+      "actors": [
+        {
+          "firstName": "John",
+          "lastName": "Travolta"
+        },
+        {
+          "firstName": "Samuel",
+          "lastName": "Jackson"
+        },
+        {
+          "firstName": "Uma",
+          "lastName": "Thurman"
+        }
+      ]
+    },
+    {
+      "title": "Django",
+      "director": {
+        "firstName": "Quentin",
+        "lastName": "Tarantino"
+      },
+      "genre": "Western",
+      "year": 2012,
+      "actors": [
+        {
+          "firstName": "Jamie",
+          "lastName": "Foxx"
+        },
+        {
+          "firstName": "Samuel",
+          "lastName": "Jackson"
+        },
+        {
+          "firstName": "Leonardo",
+          "lastName": "DiCaprio"
+        }
+      ]
+    }
+  ]
+}
